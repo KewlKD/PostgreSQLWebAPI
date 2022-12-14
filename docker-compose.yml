@@ -1,0 +1,11 @@
+version: '3.4'
+
+services:
+
+  postgresqlwebapi:
+    container_name: postgresqlwebapi:latest
+    image: ${DOCKER_REGISTRY-}postgresqlwebapi
+    build:
+      context: .
+      dockerfile: Dockerfile
+     

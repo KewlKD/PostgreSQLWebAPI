@@ -1,0 +1,16 @@
+C:\Users\kbd30\source\repos\PostgreSQLWebAPI\bin\Debug\PostgreSQLWebAPI.deps.json
+C:\Users\kbd30\source\repos\PostgreSQLWebAPI\bin\Debug\PostgreSQLWebAPI.runtimeconfig.json
+C:\Users\kbd30\source\repos\PostgreSQLWebAPI\bin\Debug\appsettings.Development.json
+C:\Users\kbd30\source\repos\PostgreSQLWebAPI\bin\Debug\appsettings.json
+C:\Users\kbd30\source\repos\PostgreSQLWebAPI\bin\Debug\PostgreSQLWebAPI.exe
+C:\Users\kbd30\source\repos\PostgreSQLWebAPI\bin\Debug\PostgreSQLWebAPI.dll
+C:\Users\kbd30\source\repos\PostgreSQLWebAPI\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\kbd30\source\repos\PostgreSQLWebAPI\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\kbd30\source\repos\PostgreSQLWebAPI\bin\Debug\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\kbd30\source\repos\PostgreSQLWebAPI\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kbd30\source\repos\PostgreSQLWebAPI\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kbd30\source\repos\PostgreSQLWebAPI\bin\Debug\Npgsql.dll
+C:\Users\kbd30\source\repos\PostgreSQLWebAPI\bin\Debug\PostgreSQLWebAPI.pdb
+C:\Users\kbd30\source\repos\PostgreSQLWebAPI\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\kbd30\source\repos\PostgreSQLWebAPI\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\kbd30\source\repos\PostgreSQLWebAPI\obj\Debug\docker-compose.dcproj.CopyComplete

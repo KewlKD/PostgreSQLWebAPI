@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PostgreSQLWebAPI", "PostgreSQLWebAPI.csproj", "{8C453A91-A14A-45F2-BDB4-1FEB98F65EE6}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{1453A869-B2D4-4175-A8A6-0DECEE252BBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C453A91-A14A-45F2-BDB4-1FEB98F65EE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C453A91-A14A-45F2-BDB4-1FEB98F65EE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C453A91-A14A-45F2-BDB4-1FEB98F65EE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C453A91-A14A-45F2-BDB4-1FEB98F65EE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1453A869-B2D4-4175-A8A6-0DECEE252BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1453A869-B2D4-4175-A8A6-0DECEE252BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1453A869-B2D4-4175-A8A6-0DECEE252BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1453A869-B2D4-4175-A8A6-0DECEE252BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC5F5D43-0602-48F1-9575-5DCA82E0EE69}
+	EndGlobalSection
+EndGlobal
